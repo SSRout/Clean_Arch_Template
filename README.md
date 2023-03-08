@@ -1,1 +1,7 @@
-# Clean_Arch_Template
+## Clean Architecture Template
+
+- Serilog
+- MediatR
+- FluentAssertions
+
+**✔️🍺 Happy Coding 👍😊**
